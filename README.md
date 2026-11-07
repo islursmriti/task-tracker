@@ -1,3 +1,4 @@
+Site is deployed on vercel : https://tracker-iota-drab.vercel.app/
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
